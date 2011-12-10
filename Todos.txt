@@ -1,0 +1,11 @@
+﻿- FormatObject method - limit depth, can have recursive loop between properties
+
+- Persisted configuration - change to xml-serializable config class.
+
+- Save queries/helpers files.
+
+- Add support for dll's imports?
+
+- 'Send to LINQPad' option
+
+- intellisense ;-)

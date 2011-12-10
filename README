@@ -1,0 +1,13 @@
+npp linq2lines 
+==============
+
+Notepad++ plugin to query and manipulate text lines using .NET Linq.
+For me as a .NET developer it's easier to think in LINQ. I've created this plugin to use the power of LINQ to query and manipulate text files on Notepad++.
+The project is in very early stages. Since I don't have much time to work on it, I've decide to open source it on github with the hope that someone will find it useful and continue to contribute it.
+
+Solution was created with Visual Studio 2010.
+The plugin is based on NppPlugin.NET.v0.6 by UFO.
+
+Enjoy,
+shlomiw
+p.s. this is my first github project... ;-)
